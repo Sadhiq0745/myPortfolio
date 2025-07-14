@@ -9,7 +9,7 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&w=600",
       technologies: ["PHP", "MySQL", "Bootstrap", "HTML", "CSS", "JavaScript"],
       githubUrl: "https://github.com/Sadhiq0745/Library-Management-System",
-      liveUrl: "#"
+      //liveUrl: "#"
     },
     {
        title: "Village Mart Android App",
@@ -25,15 +25,15 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=600",
       technologies: ["Python","Machine learning", "OpenCV", "face_recognition", "Firebase", "Flask"],
       githubUrl: "https://github.com/Sadhiq0745/VMart-android-app",
-      liveUrl: "#"
+      //liveUrl: "#"
     },
     {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing projects and skills. Built with modern design principles and optimized for performance and accessibility.",
       image: "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600",
       technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite", "JavaScript"],
-      githubUrl: "#",
-      liveUrl: "#"
+      githubUrl: "https://github.com/Sadhiq0745/myPortfolio",
+      liveUrl: "https://my-portfolio-sadhiq.vercel.app/"
     }
   ];
 
