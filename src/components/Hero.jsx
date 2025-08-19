@@ -34,7 +34,7 @@ const Hero = () => {
             {/* <button className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
               View My Work
             </button> */}
-            <a href="/abdul_sadhiq_basha_resume.pdf" download>
+            <a href="/abdul sadhiq basha resume.pdf" download>
               <button className="px-8 py-3 border-2 border-gray-300 text-gray-300 hover:border-white hover:text-white font-semibold rounded-lg transition-all duration-300">
                 Download Resume
               </button>
